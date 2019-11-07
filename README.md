@@ -1,6 +1,6 @@
 # GulpFile
 Command:
-npm i
+*npm i*
 Create folders and files:
 index.html
 Folder app > css and js
