@@ -1,0 +1,29 @@
+{
+  "name": "projectgulp",
+  "version": "1.0.0",
+  "description": "My First Gulp Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kirill Kipriyanov (Kirillqq)",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.26.7",
+    "browserslist": [
+      "last 2 version",
+      "> 1%",
+      "maintained node versions",
+      "not dead"
+    ],
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^7.0.1",
+    "gulp-clean-css": "^4.2.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-sass": "^4.0.2",
+    "gulp-uglify": "^3.0.2"
+  },
+  "dependencies": {
+    "del": "^5.1.0"
+  }
+}
