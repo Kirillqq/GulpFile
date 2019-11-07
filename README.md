@@ -2,10 +2,10 @@
 Command:
 *npm i*
 Create folders and files:
-index.html
+*index.html
 Folder app > css and js
 css > main.css and media.css
-js > lib.js and main.js
+js > lib.js and main.js*
 In console:
-gulp watch
+*gulp watch*
 DONE!
